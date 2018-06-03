@@ -24,3 +24,11 @@ Local SEO Articles
 *Information to help you with Local SEO*
 
 * [Local SEO Crash Course](https://www.serpwoo.com/blog/experts/crash-course-in-local-seo/ "BrightLocal") - A Business Owner's Crash Course in Local SEO
+
+
+
+Local SEO Citations
+------
+*Places to help you with Local SEO citations*
+
+* [Yelp](https://www.yelp.com/ "Yelp") - Register Your Business on Yelp

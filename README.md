@@ -3,7 +3,7 @@ A curated list of amazingly awesome local seo resources.
 
 
 
-Local SEO Tools
+Top Ranked Local SEO Tools
 ------
 *Tools to help you with Local SEO*
 
@@ -19,7 +19,7 @@ Local SEO Tools
 
 
 
-Local SEO Articles
+Local SEO Articles & Advice
 ------
 *Information to help you with Local SEO*
 
@@ -27,7 +27,7 @@ Local SEO Articles
 
 
 
-Local SEO Citations
+Local SEO Link Citations
 ------
 *Places to help you with Local SEO citations*
 

@@ -37,6 +37,6 @@ Local SEO Link Citations
 
 Local SEO Video Guides
 ------
-*Places to help you with Local SEO citations*
+*Videos to help you with Local SEO citations*
 
 * [Chase Reiner](https://www.youtube.com/watch?v=Nv2DgD3iiME "Chase Reiner") - How To Do Local SEO In 2018

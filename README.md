@@ -32,3 +32,11 @@ Local SEO Link Citations
 *Places to help you with Local SEO citations*
 
 * [Yelp](https://www.yelp.com/ "Yelp") - Register Your Business on Yelp
+
+
+
+Local SEO Video Guides
+------
+*Places to help you with Local SEO citations*
+
+* [Chase Reiner](https://www.youtube.com/watch?v=Nv2DgD3iiME "Chase Reiner") - How To Do Local SEO In 2018

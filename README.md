@@ -44,3 +44,11 @@ Local SEO Video Guides
 * [Map Packs Local SEO Ranking Video](https://www.youtube.com/watch?v=pKA_s_wJ30E "Local SEO Rank Tracking Using GPS Coordinates") - Local SEO Rank Tracking w/ Map Packs
 
 
+
+Local SEO Infographics
+------
+*Infographics to help you with Local SEO*
+
+* [The Importance Of Local SEO](https://blog.hubspot.com/marketing/local-seo-stats "Hubspot") - 16 Stats That Prove the Importance of Local SEO 
+
+

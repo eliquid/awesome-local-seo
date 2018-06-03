@@ -23,7 +23,9 @@ Local SEO Articles & Advice
 ------
 *Information to help you with Local SEO*
 
-* [Local SEO Crash Course](https://www.serpwoo.com/blog/experts/crash-course-in-local-seo/ "BrightLocal") - A Business Owner's Crash Course in Local SEO
+* [Local SEO Crash Course](https://www.serpwoo.com/blog/experts/crash-course-in-local-seo/ "SERPWoo") - A Business Owner's Crash Course in Local SEO
+* [Smart Content In Local Search](https://www.serpwoo.com/blog/experts/dominate-local-search-results/ "SERPWoo") - How To Dominate Local Search Results With Smart Content
+
 
 
 
@@ -41,7 +43,7 @@ Local SEO Video Guides
 
 * [Chase Reiner](https://www.youtube.com/watch?v=Nv2DgD3iiME "Chase Reiner") - How To Do Local SEO In 2018
 * [Local SEO Rank Tracking](https://www.youtube.com/watch?time_continue=1&v=o-3IAVtvcmw "Local SEO Rank Tracking Using GPS Coordinates") - Local SEO Rank Tracking Using GPS Coordinates
-* [Map Packs Local SEO Ranking Video](https://www.youtube.com/watch?v=pKA_s_wJ30E "Local SEO Rank Tracking Using GPS Coordinates") - Local SEO Rank Tracking w/ Map Packs
+* [Map Packs Local SEO Ranking Video](https://www.youtube.com/watch?v=pKA_s_wJ30E "Youtube") - Local SEO Rank Tracking w/ Map Packs
 
 
 

@@ -16,3 +16,11 @@ Local SEO Tools
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
 * [The Hoth](https://www.thehoth.com/online-review-tool/ "The Hoth") - Online Business Review Checker Tool
+
+
+
+Local SEO Articles
+------
+*Information to help you with Local SEO*
+
+* [Local SEO Crash Course](https://www.serpwoo.com/blog/experts/crash-course-in-local-seo/ "BrightLocal") - A Business Owner's Crash Course in Local SEO

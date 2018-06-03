@@ -52,3 +52,11 @@ Local SEO Infographics
 * [The Importance Of Local SEO](https://blog.hubspot.com/marketing/local-seo-stats "Hubspot") - 16 Stats That Prove the Importance of Local SEO 
 
 
+
+Local SEO Services
+------
+*Consultants and agencies that can help you with Local SEO*
+
+* [Chase Reiner](https://chasereiner.com/ "Chase Reiner") - Helping you succeed with search
+
+

@@ -7,5 +7,5 @@ Local SEO Tools
 ------
 *Tools to help you with Local SEO*
 
-[Bright Local](https://www.brightlocal.com/ "BrightLocal") - Reporting On Citiations
+* [Bright Local](https://www.brightlocal.com/ "BrightLocal") - Reporting On Citiations
 

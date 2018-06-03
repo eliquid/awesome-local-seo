@@ -15,3 +15,4 @@ Local SEO Tools
 * [Yext](https://www.yext.com/ "Yext") - Automated Local Listing Management
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
+* [The Hoth](https://www.thehoth.com/online-review-tool/ "The Hoth") - Online Business Review Checker Tool

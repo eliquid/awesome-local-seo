@@ -25,6 +25,9 @@ Local SEO Articles & Advice
 
 * [Local SEO Crash Course](https://www.serpwoo.com/blog/experts/crash-course-in-local-seo/ "SERPWoo") - A Business Owner's Crash Course in Local SEO
 * [Smart Content In Local Search](https://www.serpwoo.com/blog/experts/dominate-local-search-results/ "SERPWoo") - How To Dominate Local Search Results With Smart Content
+* [How to Conduct a Local SEO Audit in 45 Minutes](https://neilpatel.com/blog/how-to-conduct-a-local-seo-audit-in-45-minutes/ "Article") - How to Conduct a Local SEO Audit in 45 Minutes
+* [5 simple ways to dominate local search](https://searchengineland.com/local-seo-2017-5-simple-ways-dominate-local-search-268412 "Article") - 5 simple ways to dominate local search
+* [Local Search Ranking Factors](https://moz.com/local-search-ranking-factors "Article") - Local Search Ranking Factors
 
 
 
@@ -33,7 +36,7 @@ Local SEO Link Citations
 ------
 *Places to help you with Local SEO citations*
 
-* [Yelp](https://www.yelp.com/ "Yelp") - Register Your Business on Yelp
+* [The Ultimate List of 200+ Local SEO Citation Sources for USA](https://www.omnicoreagency.com/local-seo-citation-sources-usa/ "Citations") - The Ultimate List of 200+ Local SEO Citation Sources for USA
 
 
 
@@ -45,6 +48,8 @@ Local SEO Video Guides
 * [Local SEO Rank Tracking](https://www.youtube.com/watch?time_continue=1&v=o-3IAVtvcmw "Local SEO Rank Tracking Using GPS Coordinates") - Local SEO Rank Tracking Using GPS Coordinates
 * [Map Packs Local SEO Ranking Video](https://www.youtube.com/watch?v=pKA_s_wJ30E "Youtube") - Local SEO Rank Tracking w/ Map Packs
 * [Local SEO Checklist](https://www.youtube.com/watch?v=lqaE7U5q0N0 "Youtube") - Local SEO Checklist for New Sites - Whiteboard Friday
+* [Local SEO 101](https://www.youtube.com/watch?v=TeKb3edJCUY "Youtube") - Local SEO 101 from The Hoth
+* [4 Local SEO Marketing Strategies](https://www.youtube.com/watch?v=UHG4wDlvAMY "Youtube") - 4 Local SEO Marketing Strategies to Build Your Brick And Mortar Business
 
 
 
@@ -53,6 +58,7 @@ Local SEO Infographics
 *Infographics to help you with Local SEO*
 
 * [The Importance Of Local SEO](https://blog.hubspot.com/marketing/local-seo-stats "Hubspot") - 16 Stats That Prove the Importance of Local SEO 
+* [The Step By Step Guide To Local SEO](https://visual.ly/community/infographic/business/step-step-guide-local-seo "Infographic") - The Step By Step Guide To Local SEO
 
 
 

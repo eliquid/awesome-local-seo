@@ -44,6 +44,7 @@ Local SEO Video Guides
 * [Chase Reiner](https://www.youtube.com/watch?v=Nv2DgD3iiME "Chase Reiner") - How To Do Local SEO In 2018
 * [Local SEO Rank Tracking](https://www.youtube.com/watch?time_continue=1&v=o-3IAVtvcmw "Local SEO Rank Tracking Using GPS Coordinates") - Local SEO Rank Tracking Using GPS Coordinates
 * [Map Packs Local SEO Ranking Video](https://www.youtube.com/watch?v=pKA_s_wJ30E "Youtube") - Local SEO Rank Tracking w/ Map Packs
+* [Local SEO Checklist](https://www.youtube.com/watch?v=lqaE7U5q0N0 "Youtube") - Local SEO Checklist for New Sites - Whiteboard Friday
 
 
 

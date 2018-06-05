@@ -28,6 +28,7 @@ Local SEO Articles & Advice
 * [How to Conduct a Local SEO Audit in 45 Minutes](https://neilpatel.com/blog/how-to-conduct-a-local-seo-audit-in-45-minutes/ "Article") - How to Conduct a Local SEO Audit in 45 Minutes
 * [5 simple ways to dominate local search](https://searchengineland.com/local-seo-2017-5-simple-ways-dominate-local-search-268412 "Article") - 5 simple ways to dominate local search
 * [Local Search Ranking Factors](https://moz.com/local-search-ranking-factors "Article") - Local Search Ranking Factors
+* [3rd Edition of Free Guide to Effective Local SEO](http://www.localvisibilitysystem.com/2016/10/31/3rd-edition-of-free-guide-to-effective-local-seo/ "Article") - 3rd Edition of Free Guide to Effective Local SEO
 
 
 

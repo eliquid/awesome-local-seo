@@ -67,5 +67,6 @@ Local SEO Services
 *Consultants and agencies that can help you with Local SEO*
 
 * [Chase Reiner](https://chasereiner.com/ "Chase Reiner") - Helping you succeed with search
+* [Michael Cottam](https://www.michaelcottam.com/ "Michael Cottam") - Independent SEO Consultant
 
 

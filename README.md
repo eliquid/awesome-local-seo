@@ -29,6 +29,9 @@ Local SEO Articles & Advice
 * [5 simple ways to dominate local search](https://searchengineland.com/local-seo-2017-5-simple-ways-dominate-local-search-268412 "Article") - 5 simple ways to dominate local search
 * [Local Search Ranking Factors](https://moz.com/local-search-ranking-factors "Article") - Local Search Ranking Factors
 * [3rd Edition of Free Guide to Effective Local SEO](http://www.localvisibilitysystem.com/2016/10/31/3rd-edition-of-free-guide-to-effective-local-seo/ "Article") - 3rd Edition of Free Guide to Effective Local SEO
+* [45 Local SEO Pitfalls and How to Avoid Them](https://moz.com/blog/45-local-seo-pitfalls "Article") - 45 Local SEO Pitfalls and How to Avoid Them
+* [GOOGLE MY BUSINESS UPDATES AND FEATURES FOR LOCAL SEO](https://seoexpertbrad.com/google-my-business-updates/ "Article") - GOOGLE MY BUSINESS UPDATES AND FEATURES FOR LOCAL SEO
+* [LOCAL SEO TIPS FOR 2018 BY INDUSTRY EXPERTS](https://seoexpertbrad.com/local-seo-tips/ "Article") - LOCAL SEO TIPS FOR 2018 BY INDUSTRY EXPERTS
 
 
 

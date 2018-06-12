@@ -1,5 +1,5 @@
-# Awesome Local SEO
-A curated list of amazingly awesome local seo resources.
+# Awesome Local SEO Strategy Tips
+A curated list of amazingly awesome local seo guides and resources.
 
 
 

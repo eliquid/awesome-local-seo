@@ -76,3 +76,12 @@ Local SEO Services
 * [Michael Cottam](https://www.michaelcottam.com/ "Michael Cottam") - Independent SEO Consultant
 
 
+
+Local SEO Forums
+------
+*Forums and communities that can help you with Local SEO*
+
+* [Local Search Forum](https://www.localsearchforum.com/ "Forum") - Local Search Forum
+* [Google + Local Search](https://plus.google.com/communities/104176154679198526893 "Community") - Local search marketing and local SEO news, resources & discussions.
+
+

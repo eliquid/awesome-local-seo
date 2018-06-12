@@ -42,6 +42,7 @@ Local SEO Link Citations
 *Places to help you with Local SEO citations*
 
 * [The Ultimate List of 200+ Local SEO Citation Sources for USA](https://www.omnicoreagency.com/local-seo-citation-sources-usa/ "Citations") - The Ultimate List of 200+ Local SEO Citation Sources for USA
+* [1,000+ Niche Citation Sites in 43 Business Categories – Updated 2018](https://www.brightlocal.com/2018/04/06/top-local-citations-by-business-category/ "Citations") - Top Local Citations by Business Category
 
 
 

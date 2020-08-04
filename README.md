@@ -10,6 +10,7 @@ Top Ranked Local SEO Tools
 * [SERPWoo Local SERP Tracker](https://www.serpwoo.com/ "Local SEO Rank Tracking & Competitive Niche Research") - Local SEO Rank Tracking & Competitive Niche Research
 * [Bright Local](https://www.brightlocal.com/ "BrightLocal") - Reporting On Citiations
 * [WhiteSpark](https://whitespark.ca/ "WhiteSpark") - Local Citation Finder
+* [Screpy](https://screpy.com/ "Screpy") - AI-Based SEO Analysis & Monitoring Tool
 * [Moz Local](https://moz.com/products/local "Moz") - Manage Local Listings
 * [Synup](https://synup.com/ "Synup") - Manage Your Listings And Reputation
 * [Yext](https://www.yext.com/ "Yext") - Automated Local Listing Management

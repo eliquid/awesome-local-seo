@@ -7,6 +7,7 @@ Top Ranked Local SEO Tools
 ------
 *Tools to help you with Local SEO*
 
+* [Avukatistan Visibility Analysis](https://avukatistan.com/gorunurluk "Avukatistan Visibility Analysis") - Local SEO, Google Maps, and AI visibility analysis for lawyers in Turkey
 * [SERPWoo Local SERP Tracker](https://www.serpwoo.com/ "Local SEO Rank Tracking & Competitive Niche Research") - Local SEO Rank Tracking & Competitive Niche Research
 * [Bright Local](https://www.brightlocal.com/ "BrightLocal") - Reporting On Citiations
 * [WhiteSpark](https://whitespark.ca/ "WhiteSpark") - Local Citation Finder
@@ -83,5 +84,4 @@ Local SEO Forums
 
 * [Local Search Forum](https://www.localsearchforum.com/ "Forum") - Local Search Forum
 * [Google + Local Search](https://plus.google.com/communities/104176154679198526893 "Community") - Local search marketing and local SEO news, resources & discussions.
-
 

@@ -85,3 +85,9 @@ Local SEO Forums
 * [Google + Local Search](https://plus.google.com/communities/104176154679198526893 "Community") - Local search marketing and local SEO news, resources & discussions.
 
 
+
+
+## Real-World Implementations
+*Live examples of local SEO done right*
+
+* [Fix72 — IT Repair Le Mans](https://fix72.com "Fix72 dépannage informatique Le Mans") - French IT repair service (Le Mans, France) using SSR prerendering, LocalBusiness structured data, Google Indexing API automation, llms.txt for GEO signals, and thematic XML sitemaps. Full source: https://github.com/dilm-seo/depannagelemans

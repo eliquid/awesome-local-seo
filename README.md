@@ -16,6 +16,8 @@ Top Ranked Local SEO Tools
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
 * [The Hoth](https://www.thehoth.com/online-review-tool/ "The Hoth") - Online Business Review Checker Tool
+* [Schema Generator for Local Business](https://landing-five-dusky-44.vercel.app/schema-generator "Schema Generator") - Free JSON-LD Schema markup generator for 22 types of local businesses (restaurant, dentist, plumber, hair salon, etc.). No signup required.
+* [Website Speed Comparison Tool](https://landing-five-dusky-44.vercel.app/comparar-velocidad "Speed Comparison") - Free tool to compare your website's PageSpeed score vs. a competitor's using real Google PageSpeed Insights data.
 
 
 

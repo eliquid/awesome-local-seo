@@ -12,6 +12,7 @@ Top Ranked Local SEO Tools
 * [WhiteSpark](https://whitespark.ca/ "WhiteSpark") - Local Citation Finder
 * [Moz Local](https://moz.com/products/local "Moz") - Manage Local Listings
 * [Synup](https://synup.com/ "Synup") - Manage Your Listings And Reputation
+* [ReputeMap](https://reputemap.com/google-review-management-software "ReputeMap") - Manage Google reviews, AI replies, review requests, and white-label reports for local SEO clients
 * [Yext](https://www.yext.com/ "Yext") - Automated Local Listing Management
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
@@ -83,5 +84,4 @@ Local SEO Forums
 
 * [Local Search Forum](https://www.localsearchforum.com/ "Forum") - Local Search Forum
 * [Google + Local Search](https://plus.google.com/communities/104176154679198526893 "Community") - Local search marketing and local SEO news, resources & discussions.
-
 

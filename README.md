@@ -16,6 +16,7 @@ Top Ranked Local SEO Tools
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
 * [The Hoth](https://www.thehoth.com/online-review-tool/ "The Hoth") - Online Business Review Checker Tool
+* [Screpy Map Tracker](https://screpy.com/feature/map-tracker/) - Tracks Google Maps keyword rankings by target location for local visibility reporting.
 
 
 

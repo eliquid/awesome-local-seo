@@ -83,5 +83,6 @@ Local SEO Forums
 
 * [Local Search Forum](https://www.localsearchforum.com/ "Forum") - Local Search Forum
 * [Google + Local Search](https://plus.google.com/communities/104176154679198526893 "Community") - Local search marketing and local SEO news, resources & discussions.
+* [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 

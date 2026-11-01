@@ -16,6 +16,8 @@ Top Ranked Local SEO Tools
 * [Local SEO Checklist](https://localseochecklist.org/ "Local SEO Checklist") - Free Checklist To Boost Local SEO
 * [Placeable](http://www.ignitetech.com/solutions/marketing-and-sales/placeable/ "Placeable") - Automate Updating Your Location Data
 * [The Hoth](https://www.thehoth.com/online-review-tool/ "The Hoth") - Online Business Review Checker Tool
+* [SEOCheck-AI](https://seocheck-ai.com/free-seo-check "SEOCheck-AI") - Free multi-signal technical SEO checker auditing local and national domains across indexability, on-page structure, security headers, and AI-search visibility
+* [SEOAudit](https://seoaudit.com.ua/ "SEOAudit") - Online site audit and performance diagnostic platform analyzing Core Web Vitals (INP, LCP) and local business web vitals benchmarks
 
 
 

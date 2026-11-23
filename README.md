@@ -8,6 +8,7 @@ Top Ranked Local SEO Tools
 *Tools to help you with Local SEO*
 
 * [SERPWoo Local SERP Tracker](https://www.serpwoo.com/ "Local SEO Rank Tracking & Competitive Niche Research") - Local SEO Rank Tracking & Competitive Niche Research
+* [Free Website Grader](https://8083-agq6pwimmres4jrl6zkmx2vqtu.instabox.tech/grade?utm_source=github&utm_medium=social&utm_campaign=obj044_traffic "Free Website Grader") - Free instant website speed + SEO + health audit for any local-business URL. No signup.
 * [Bright Local](https://www.brightlocal.com/ "BrightLocal") - Reporting On Citiations
 * [WhiteSpark](https://whitespark.ca/ "WhiteSpark") - Local Citation Finder
 * [Moz Local](https://moz.com/products/local "Moz") - Manage Local Listings
